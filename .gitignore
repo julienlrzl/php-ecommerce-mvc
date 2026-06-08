@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Composer
+ECommerce/vendor/
+
+# PHP
+*.log
